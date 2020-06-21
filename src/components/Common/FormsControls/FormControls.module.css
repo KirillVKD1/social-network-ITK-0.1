@@ -1,0 +1,11 @@
+.formControl.error textarea{ 
+    border: 1px solid firebrick;
+} 
+.formControl.error span{ 
+    color:firebrick;
+}  
+.formSummaryError{ 
+    border: firebrick 1px solid; 
+    padding: 5px; 
+    color: firebrick;
+}

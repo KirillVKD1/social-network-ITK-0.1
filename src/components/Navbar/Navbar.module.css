@@ -1,0 +1,29 @@
+.nav{ 
+    grid-area: n; 
+    background-color:rgb(38,65,108);  
+    padding: 20px;
+} 
+.item a {  
+    text-decoration: none;
+   
+    color:rgb(111,133,174);
+}    
+.item a.active{ 
+    font-weight: bold;  
+    color: white; 
+
+}  
+.users a{  
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 20px;  
+    color: rgb(111,133,174);
+    
+} 
+.users a.active{ 
+    color: white; 
+    font-weight: bold;
+} 
+.navBarFriends{ 
+    
+}

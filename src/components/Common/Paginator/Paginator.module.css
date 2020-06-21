@@ -1,0 +1,32 @@
+.pageDiv{ 
+    display: flex;  
+
+} 
+.selectedPage{ 
+    color: white; 
+    font-weight: bold; 
+    padding: 1px; 
+    background-color: rgb(75,103,151);   
+    height: 24px;
+    border-radius: 50%;
+    opacity: 0.5;
+} 
+.plainPage{  
+    padding: 1px; 
+}  
+
+.prevButton{    
+    width: 80px;
+   height: 35px;
+   margin-left: 35px; 
+} 
+
+.nextButton{   
+    width: 80px;
+    height: 35px;  
+    margin-right: 35px;
+} 
+.pageNumbersBlock{ 
+    display: flex; 
+    margin:0px auto
+}
